@@ -1,5 +1,5 @@
 FROM daocloud.io/python:3.6
-MAINTAINER livingworld <455412741@qq.com>
+MAINTAINER yyc1991 <569326782qq@gmail.com>
 
 RUN mkdir -p /app
 COPY . /app
